@@ -7,7 +7,7 @@ Test 1. Visitor
 - Descrirption:
 Create an interface or abstract base class 'Shape'. Implement three concrete Shapes: 'Circle', 'Rectangle', 'Triangle'. Apply the visitor pattern to your data model. Write an AreaVisitor that computes the area of the shapes. Write a program that makes arbitrary instances of the data model and uses the AreaVisitor to calculate the total area of the instances.
 - Instructions to execute:
-Go the src\test folder and execute the test class AreaVisitorTest.java, this has several shapes that execute the visit method to calculate the area and output it to the console.
+Go the src\test\java folder and execute the test class AreaVisitorTest.java, this has several shapes that execute the visit method to calculate the area and output it to the console.
 
 
 Test 2. Paper Scissors Rock
